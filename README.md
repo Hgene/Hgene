@@ -21,9 +21,11 @@
 ### ✨로드맵 및 튜토리얼 문서✨  
 - [머신러닝/데이터 엔지니어 로드맵](https://github.com/Hgene/docs)
 
+
   
 ### ✨튜토리얼 리스트✨  
-- [Airflow 튜토리얼](https://github.com/Hgene/airflow_tutorials) 
+- [Airflow 튜토리얼](https://github.com/Hgene/airflow_tutorials)  
+
 
   
 ### ✨기술스택✨  
@@ -36,11 +38,11 @@
  > 🌱(초급)Pytorch, Tensorflow  
   
  #### Rest API 서버구축
- > 🌱(초급)Flask, Bootstrap 4, HTML, Javascript, Nginx
+ > 🌱(초급)Flask, Bootstrap 4, HTML, Javascript, Nginx  
  
  #### DataBase
- > 🌻(중급)PostgreSQL, IBM DB2
- > 🌱(초급)Pyspark
+ > 🌻(중급)PostgreSQL, IBM DB2  
+ > 🌱(초급)Pyspark  
  
  #### ETL
  > 🌱(초급)Airflow, IBM Designer
