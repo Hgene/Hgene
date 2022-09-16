@@ -38,7 +38,7 @@
  > 🌱(초급)Pytorch, Tensorflow  
   
  #### Rest API 서버구축
- > 🌱(초급)Flask, Bootstrap 4, HTML, Javascript, Nginx  
+ > 🌱(초급)Flask, Bootstrap 4, HTML, Javascript, Nginx, ORM(sqlalchemy)  
  
  #### DataBase
  > 🌻(중급)PostgreSQL, IBM DB2  
